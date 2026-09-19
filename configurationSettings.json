@@ -1,12 +1,20 @@
 {
   "Applications": [
-    { "Id": "Git.Git", "Name": "Git" },
-    { "Id": "Microsoft.VisualStudioCode", "Name": "Visual Studio Code" },
-    { "Id": "7zip.7zip", "Name": "7-Zip" },
-    { "Id": "Mozilla.Firefox", "Name": "Firefox" },
-    { "Id": "Notepad++.Notepad++", "Name": "Notepad++" },
-    { "Id": "Microsoft.PowerToys", "Name": "PowerToys" }
-  ],
+  { "Id": "Git.Git", "Name": "Git" },
+  { "Id": "Microsoft.VisualStudioCode", "Name": "Visual Studio Code" },
+  { "Id": "7zip.7zip", "Name": "7-Zip" },
+  { "Id": "Mozilla.Firefox", "Name": "Firefox" },
+  { "Id": "Notepad++.Notepad++", "Name": "Notepad++" },
+  { "Id": "Microsoft.PowerToys", "Name": "PowerToys" },
+  { "Id": "Microsoft.Sysinternals.Suite", "Name": "Sysinternals Suite" },
+  { "Id": "WiresharkFoundation.Wireshark", "Name": "Wireshark" },
+  { "Id": "voidtools.Everything", "Name": "Everything" },
+  { "Id": "WinDirStat.WinDirStat", "Name": "WinDirStat" },
+  { "Id": "Rufus.Rufus", "Name": "Rufus" },
+  { "Id": "VideoLAN.VLC", "Name": "VLC" },
+  { "Id": "Bitwarden.Bitwarden", "Name": "Bitwarden" },
+  { "Id": "ShareX.ShareX", "Name": "ShareX" }
+],
 
   "RegistryTweaks": [
     {
