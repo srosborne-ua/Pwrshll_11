@@ -49,14 +49,24 @@ Rufus: bootable USB creator
 Everyday
 
 VLC: media player
+
 Bitwarden: password manager
+
 ShareX: screenshots and screen recording
+
 Default settings
+
+
 Explorer: shows file extensions and hidden files, opens to This PC
+
 Theme: dark mode for apps
+
 Search: Bing/web results disabled in Start
+
 Power: High performance plan, custom screen and sleep timeouts, hibernate off
+
 Privacy: advertising ID, Cortana, activity history, and tailored experiences disabled; diagnostic data set to Required
+
 Successful run
 <img width="1917" height="1079" alt="Screenshot 2026-09-26 125207" src="https://github.com/user-attachments/assets/5b2e8165-1618-4332-80dc-d681de0d0c9f" />
 
